@@ -1,0 +1,804 @@
+c.1521_1523del	p.Phe508del	F508del	99061	0.697436	CF-causing	No	chr7:117559590:ATCT:A
+c.1624G>T	p.Gly542X	G542X	3610	0.025416	CF-causing	No	chr7:117587778:G:T
+c.1652G>A	p.Gly551Asp	G551D	2986	0.021023	CF-causing	No	chr7:117587806:G:A
+c.3909C>G	p.Asn1303Lys	N1303K	2246	0.015813	CF-causing	No	chr7:117652877:C:G
+c.350G>A	p.Arg117His	R117H	1854	0.013053	Varying clinical consequence	No	chr7:117530975:G:A
+c.3846G>A	p.Trp1282X	W1282X	1726	0.012152	CF-causing	No	chr7:117642566:G:A
+c.1657C>T	p.Arg553X	R553X	1323	0.009315	CF-causing	No	chr7:117587811:C:T
+c.489+1G>T	p.?	621+1G->T	1323	0.009315	CF-causing	No	.
+c.1585-1G>A	p.?	1717-1G->A	1216	0.008561	CF-causing	No	chr7:117587738:G:A
+c.3718-2477C>T	p.?	3849+10kbC->T	1158	0.008153	CF-causing	No	.
+c.2657+5G>A	p.?	2789+5G->A	1027	0.007231	CF-causing	No	chr7:117602868:G:A
+c.1519_1521del	p.Ile507del	I507del	651	0.004583	CF-causing	No	chr7:117559586:TATC:T
+c.3484C>T	p.Arg1162X	R1162X	651	0.004583	CF-causing	No	chr7:117627537:C:T
+c.254G>A	p.Gly85Glu	G85E	616	0.004337	CF-causing	No	chr7:117509123:G:A
+c.3454G>C	p.Asp1152His	D1152H	571	0.00402	Varying clinical consequence	No	chr7:117614699:G:C
+c.2051_2052delinsG	p.Lys684SerfsX38	2183AA->G	542	0.003816	CF-causing	No	.
+c.3528del	p.Lys1177SerfsX15	3659delC	539	0.003795	CF-causing	No	chr7:117627579:AC:A
+c.1040G>C	p.Arg347Pro	R347P	533	0.003753	CF-causing	No	chr7:117540270:G:C
+c.1210_12T[5]	p.?	5T	516	0.003633	Varying clinical consequence	No	.
+c.2988+1G>A	p.?	3120+1G->A	501	0.003527	CF-causing	No	chr7:117606754:G:A
+c.1364C>A	p.Ala455Glu	A455E	500	0.00352	CF-causing	No	chr7:117548795:C:A
+c.3140-26A>G	p.?	3272-26A->G	470	0.003309	CF-causing	No	.
+c.1000C>T	p.Arg334Trp	R334W	429	0.00302	CF-causing	No	chr7:117540230:C:T
+c.1766+1G>A	p.?	1898+1G->A	421	0.002964	CF-causing	No	chr7:117590440:G:A
+c.54-5940_273+10250del	p.Ser18ArgfsX16	CFTRdele2,3	417	0.002936	CF-causing	No	.
+c.1679G>C	p.Arg560Thr	R560T	343	0.002415	CF-causing	No	chr7:117587833:G:C
+c.617T>G	p.Leu206Trp	L206W	333	0.002344	CF-causing	No	chr7:117535285:T:G
+c.2052dup	p.Gln685ThrfsX4	2184insA	329	0.002316	CF-causing	No	chr7:117592212:C:CA
+c.262_263del	p.Leu88IlefsX22 	394delTT	307	0.002161	CF-causing	No	chr7:117509127:CTT:C
+c.178G>T	p.Glu60X	E60X	296	0.002084	CF-causing	No	chr7:117509047:G:T
+c.1477C>T	p.Gln493X	Q493X	292	0.002056	CF-causing	No	chr7:117559548:C:T
+c.579+1G>T	p.?	711+1G->T	274	0.001929	CF-causing	No	chr7:117534366:G:T
+c.2052del	p.Lys684AsnfsX38	2184delA	255	0.001795	CF-causing	No	chr7:117592212:CA:C
+c.200C>T	p.Pro67Leu	P67L	239	0.001683	CF-causing	No	chr7:117509069:C:T
+c.3302T>A	p.Met1101Lys	M1101K	238	0.001676	CF-causing	No	chr7:117611743:T:A
+c.1408A>G	p.Met470Val	M470V	235	0.001655	Non CF-causing	No	.
+c.3276C>A|c.3276C>G	p.Tyr1092X	Y1092X	225	0.001584	CF-causing	No	chr7:117611717:C:G
+c.3196C>T	p.Arg1066Cys	R1066C	220	0.001549	CF-causing	No	chr7:117611637:C:T
+c.1021_1022dup	p.Phe342HisfsX28	1154insTC	214	0.001507	CF-causing	No	chr7:117540248:A:ATC
+c.3773dup	p.Leu1258PhefsX7	3905insT	210	0.001478	CF-causing	No	chr7:117642487:C:CT
+c.1646G>A	p.Ser549Asn	S549N	203	0.001429	CF-causing	No	chr7:117587800:G:A
+c.1040G>A	p.Arg347His	R347H	199	0.001401	CF-causing	No	chr7:117540270:G:A
+c.948del	p.Phe316LeufsX12	1078delT	184	0.001295	CF-causing	No	chr7:117540175:CT:C
+c.1210-11T>G	p.?	5T;TG12	182	0.001281	Varying clinical consequence	No	.
+c.3472C>T	p.Arg1158X	R1158X	179	0.00126	CF-causing	No	chr7:117627525:C:T
+c.2834C>T	p.Ser945Leu	S945L	167	0.001176	CF-causing	No	.
+c.1558G>T	p.Val520Phe	V520F	156	0.001098	CF-causing	No	chr7:117559629:G:T
+c.443T>C	p.Ile148Thr	I148T	148	0.001042	Non CF-causing	No	chr7:117531068:T:C
+c.349C>T	p.Arg117Cys	R117C	146	0.001028	CF-causing	No	chr7:117530974:C:T
+c.1545_1546del	p.Tyr515X	1677delTA	131	0.000922	CF-causing	No	.
+c.[350G>A;1210-12T[7]]	p.[Arg117His;?]	R117H;7T	125	0.00088	Varying clinical consequence	No	.
+c.3752G>A	p.Ser1251Asn	S1251N	120	0.000845	CF-causing	No	chr7:117642472:G:A
+c.1753G>T	p.Glu585X	E585X	110	0.000774	CF-causing	No	chr7:117590426:G:T
+c.2991G>C	p.Leu997Phe	L997F	110	0.000774	Non CF-causing	No	chr7:117610521:G:C
+c.3705T>G	p.Ser1235Arg	S1235R	108	0.00076	Non CF-causing	No	chr7:117627758:T:G
+c.3731G>A	p.Gly1244Glu	G1244E	106	0.000746	CF-causing	No	chr7:117642451:G:A
+c.[350G>A;1210-11T>G]	p.[Arg117His;?]	R117H;5T	102	0.000718	CF-causing	No	.
+c.1055G>A	p.Arg352Gln	R352Q	101	0.000711	CF-causing	No	chr7:117540285:G:A
+c.3197G>A	p.Arg1066His	R1066H	100	0.000704	CF-causing	No	chr7:117611638:G:A
+c.3889dup	p.Ser1297PhefsX5	4016insT	100	0.000704	CF-causing	No	.
+c.2012del	p.Leu671X	2143delT	96	0.000676	CF-causing	No	chr7:117592177:AT:A
+c.3230T>C	p.Leu1077Pro	L1077P	96	0.000676	CF-causing	No	chr7:117611671:T:C
+c.3080T>C	p.Ile1027Thr	I1027T	94	0.000662	Non CF-causing	No	chr7:117610610:T:C
+c.1645A>C|c.1647T>G|c.1647T>A	p.Ser549Arg	S549R	93	0.000655	CF-causing	No	chr7:117587801:T:G
+c.223C>T	p.Arg75X	R75X	92	0.000648	CF-causing	No	chr7:117509092:C:T
+c.1675G>A	p.Ala559Thr	A559T	91	0.000641	CF-causing	No	chr7:117587829:G:A
+c.3744del	p.Lys1250ArgfsX9	3876delA	91	0.000641	CF-causing	No	chr7:117642463:CA:C
+c.366T>A	p.Tyr122X	Y122X	88	0.00062	CF-causing	No	.
+c.532G>A	p.Gly178Arg	G178R	87	0.000613	CF-causing	No	chr7:117534318:G:A
+c.2490+1G>A	p.?	2622+1G->A	85	0.000598	CF-causing	No	.
+c.2988G>A	p.?	3120G->A	85	0.000598	CF-causing	No	chr7:117606753:G:A
+c.2657+2_2657+3insA	p.?	2789+2insA	84	0.000591	Unknown significance	No	chr7:117602865:T:TA
+c.1680-886A>G	p.?	1811+1634A->G|1811+1.6kbA->G	81	0.00057	CF-causing	No	.
+c.3067_3072del	p.Ile1023_Val1024del	3199del6	75	0.000528	CF-causing	No	.
+c.1727G>C	p.Gly576Ala	G576A	74	0.000521	Non CF-causing	No	chr7:117590400:G:C
+c.1393-1G>A	p.?	1525-1G->A	72	0.000507	CF-causing	No	chr7:117559463:G:A
+c.658C>T	p.Gln220X	Q220X	71	0.0005	CF-causing	No	chr7:117535326:C:T
+c.224G>A	p.Arg75Gln	R75Q	71	0.0005	Non CF-causing	No	chr7:117509093:G:A
+c.3266G>A	p.Trp1089X	W1089X	68	0.000479	CF-causing	No	chr7:117611707:G:A
+c.2002C>T	p.Arg668Cys	R668C	68	0.000479	Non CF-causing	No	chr7:117592169:C:T
+c.328G>C	p.Asp110His	D110H	65	0.000458	CF-causing	No	chr7:117530953:G:C
+c.4251del	p.Glu1418ArgfsX14	4382delA	65	0.000458	CF-causing	No	chr7:117666914:GA:G
+c.2125C>T	p.Arg709X	R709X	63	0.000444	CF-causing	No	chr7:117592292:C:T
+c.579+3A>G	p.?	711+3A->G	63	0.000444	CF-causing	No	chr7:117534368:A:G
+c.(2988+1_2989-1)_(3468+1_3469-1)del	p.?	CFTRdele17a-18	62	0.000437	CF-causing	No	.
+c.2175dup	 p.Glu726ArgfsX4	2307insA	62	0.000437	CF-causing	No	chr7:117592340:G:GA
+c.579+5G>A	p.?	711+5G->A	60	0.000422	CF-causing	No	.
+c.14C>T	p.Pro5Leu	P5L	60	0.000422	Varying clinical consequence	No	chr7:117480108:C:T
+c.[1521_1523del;3080T>C]	p.[Phe508del;Ile1027Thr]	F508del;I1027T	58	0.000408	CF-causing	No	.
+c.1466C>A	p.Ser489X	S489X	58	0.000408	CF-causing	No	chr7:117559537:C:A
+c.2537G>A|c.2538G>A	p.Trp846X	W846X	56	0.000394	CF-causing	No	chr7:117594977:G:A
+c.1007T>A	p.Ile336Lys	I336K	55	0.000387	CF-causing	No	chr7:117540237:T:A
+c.3808G>A	p.Asp1270Asn	D1270N	55	0.000387	Varying clinical consequence	No	chr7:117642528:G:A
+c.1736A>G	p.Asp579Gly	D579G	53	0.000373	Varying clinical consequence	No	chr7:117590409:A:G
+c.1013C>T	p.Thr338Ile	T338I	52	0.000366	CF-causing	No	chr7:117540243:C:T
+c.1327_1330dup	p.Ile444ArgfsX3	1461ins4	50	0.000352	CF-causing	No	.
+c.2128A>T	p.Lys710X	K710X	50	0.000352	CF-causing	No	chr7:117592295:A:T
+c.274G>A	p.Glu92Lys	E92K	49	0.000345	CF-causing	No	.
+c.115C>T	p.Gln39X	Q39X	47	0.000331	CF-causing	No	chr7:117504314:C:T
+c.(53+1_54-1)_(164+1_165-1)del	p.?	CFTRdele2	46	0.000324	CF-causing	No	.
+c.2668C>T	p.Gln890X	Q890X	46	0.000324	CF-causing	No	chr7:117603542:C:T
+c.1397C>A|c.1397C>G	p.Ser466X	S466X	45	0.000317	CF-causing	No	chr7:117559468:C:G
+c.1705T>G	p.Tyr569Asp	Y569D	45	0.000317	CF-causing	No	chr7:117590378:T:G
+c.3194T>C	p.Leu1065Pro	L1065P	43	0.000303	CF-causing	No	chr7:117611635:T:C
+c.1210-11delinsGTG	p.?	5T;TG13	43	0.000303	Varying clinical consequence	No	.
+c.580-1G>T	p.?	712-1G->T	42	0.000296	CF-causing	No	.
+c.695T>A	p.Val232Asp	V232D	41	0.000289	CF-causing	No	chr7:117535363:T:A
+c.(3963+1_3964-1)_(*1_?)del	p.?	CFTRdele22-24	40	0.000282	CF-causing	No	.
+c.2215del	p.Val739TyrfsX16	2347delG	40	0.000282	CF-causing	No	.
+c.274-1G>A	p.?	406-1G->A	40	0.000282	CF-causing	No	chr7:117530898:G:A
+c.2875del	p.Ala959HisfsX9	3007delG	40	0.000282	CF-causing	No	chr7:117603748:AG:A
+c.3964-78_4242+577del	p.?	CFTRdele22,23	40	0.000282	CF-causing	No	.
+c.273+1G>A	p.?	405+1G->A	39	0.000275	CF-causing	No	chr7:117509143:G:A
+c.1400T>C	p.Leu467Pro	L467P	38	0.000268	CF-causing	No	chr7:117559471:T:C
+c.274G>T	p.Glu92X	E92X	38	0.000268	CF-causing	No	chr7:117530899:G:T
+c.2562T>C|c.2562T>G|c.2562T>A	p.Thr854Thr	T854T	37	0.00026	Non CF-causing	No	chr7:117595001:T:A
+c.1654C>T	p.Gln552X	Q552X	36	0.000253	CF-causing	No	.
+c.653T>A	p.Leu218X	L218X	36	0.000253	CF-causing	No	chr7:117535321:T:A
+c.220C>T	p.Arg74Trp	R74W	36	0.000253	Varying clinical consequence	No	chr7:117509089:C:T
+c.3208C>T	p.Arg1070Trp	R1070W	36	0.000253	Varying clinical consequence	No	chr7:117611649:C:T
+c.2583del	p.Phe861LeufsX3	2711delT	35	0.000246	CF-causing	No	chr7:117595017:AT:A
+c.1210-7_1210-6del	p.?	5T;TG11	35	0.000246	Non CF-causing	No	.
+c.1673T>C	p.Leu558Ser	L558S	34	0.000239	CF-causing	No	chr7:117587827:T:C
+c.3154T>G	p.Phe1052Val	F1052V	34	0.000239	Varying clinical consequence	No	chr7:117611595:T:G
+c.1687T>A	p.Tyr563Asn	Y563N	33	0.000232	CF-causing	No	chr7:117590360:T:A
+c.2195T>G	p.Leu732X	L732X	33	0.000232	CF-causing	No	chr7:117592362:T:G
+c.3700A>G	p.Ile1234Val	I1234V	33	0.000232	CF-causing	No	chr7:117627753:A:G
+c.613C>T	p.Pro205Ser	P205S	33	0.000232	CF-causing	No	chr7:117535281:C:T
+c.1680-1G>A	p.?	1812-1G->A	32	0.000225	CF-causing	No	chr7:117590352:G:A
+c.2353C>T	p.Arg785X 	R785X	32	0.000225	CF-causing	No	.
+c.2290C>T	p.Arg764X	R764X	31	0.000218	CF-causing	No	.
+c.2780T>C	p.Leu927Pro	L927P	31	0.000218	CF-causing	No	chr7:117603654:T:C
+c.2491G>T	p.Glu831X	E831X	30	0.000211	CF-causing	No	chr7:117594930:G:T
+c.3937C>T	p.Gln1313X	Q1313X	30	0.000211	CF-causing	No	chr7:117652905:C:T
+c.3873G>C	p.Gln1291His	Q1291H	30	0.000211	Varying clinical consequence	No	chr7:117642593:G:C
+c.3611G>A|c.3612G>A	p.Trp1204X	W1204X	29	0.000204	CF-causing	No	chr7:117627665:G:A
+c.680T>G	p.Leu227Arg	L227R	29	0.000204	CF-causing	No	chr7:117535348:T:G
+c.1584G>A	p.Glu528Glu	1716G/A	29	0.000204	Non CF-causing	No	chr7:117559655:G:A
+c.1116+1G>A	p.?	1248+1G->A	28	0.000197	CF-causing	No	chr7:117540347:G:A
+c.1973_1985delinsAGAAA	p.Arg658LysfsX4	2105-2117del13insAGAAA	28	0.000197	CF-causing	No	.
+c.935_937del	p.Phe312del	F312del	28	0.000197	Varying clinical consequence	No	.
+c.1367T>C	p.Val456Ala	V456A	27	0.00019	CF-causing	No	chr7:117548798:T:C
+c.1585-8G>A	p.?	1717-8G->A	27	0.00019	CF-causing	No	.
+c.1766+3A>G	p.?	1898+3A->G	27	0.00019	CF-causing	No	chr7:117590442:A:G
+c.2551C>T	p.Arg851X	R851X	27	0.00019	CF-causing	No	chr7:117594990:C:T
+c.442del	p.Ile148LeufsX5	574delA	27	0.00019	CF-causing	No	.
+c.1006_1007insG	p.Ile336SerfsX28	1138insG	26	0.000183	CF-causing	No	chr7:117540236:A:AG
+c.1680-877G>T	p.?	1811+1643G->T	26	0.000183	CF-causing	No	.
+c.1A>G	p.?	M1V	26	0.000183	CF-causing	No	.
+c.2260G>A	p.Val754Met	V754M	26	0.000183	Non CF-causing	No	chr7:117592427:G:A
+c.1340del	p.Lys447ArgfsX2	1471delA	25	0.000176	CF-causing	No	chr7:117548769:CA:C
+c.1721C>A	p.Pro574His	P574H	25	0.000176	CF-causing	No	chr7:117590394:C:A
+c.325_327delinsG	p.Tyr109GlyfsX4	457TAT->G	25	0.000176	CF-causing	No	.
+c.1475C>T	p.Ser492Phe	S492F	24	0.000169	CF-causing	No	chr7:117559546:C:T
+c.1820_1903del	p.Met607_Gln634del	1949del84	24	0.000169	CF-causing	No	chr7:117591983:AAAATGGAACATTTAAAGAAAGCTGACAAAATATTAATTTTGCATGAAGGTAGCAGCTATTTTTATGGGACATTTTCAGAACTCC:A
+c.3761T>G	p.Leu1254X	L1254X	24	0.000169	CF-causing	No	chr7:117642481:T:G
+c.531del	p.Ile177MetfsX12	663delT	24	0.000169	CF-causing	No	chr7:117534315:AT:A
+c.1021T>C	p.Ser341Pro	S341P	23	0.000162	CF-causing	No	.
+c.1923_1931delinsA	p.Ser641ArgfsX5	2055del9->A	23	0.000162	CF-causing	No	.
+c.2453del	p.Leu818TrpfsX3	2585delT	23	0.000162	CF-causing	No	.
+c.292C>T	p.Gln98X	Q98X	23	0.000162	CF-causing	No	chr7:117530917:C:T
+c.3181G>C	p.Gly1061Arg	G1061R	23	0.000162	CF-causing	No	.
+c.3310G>T	p.Glu1104X	E1104X	23	0.000162	CF-causing	No	.
+c.988G>T	p.Gly330X	G330X	23	0.000162	CF-causing	No	chr7:117540218:G:T
+c.91C>T	p.Arg31Cys	R31C	23	0.000162	Non CF-causing	No	chr7:117504290:C:T
+c.3737C>T	p.Thr1246Ile	T1246I	23	0.000162	Varying clinical consequence	No	chr7:117642457:C:T
+c.[1075C>A;1079C>A]	p.[Gln359Lys;Thr360Lys]	Q359K/T360K	22	0.000155	CF-causing	No	.
+c.4046G>A	p.Gly1349Asp	G1349D	22	0.000155	CF-causing	No	chr7:117664770:G:A
+c.595C>T	p.His199Tyr	H199Y	22	0.000155	CF-causing	No	.
+c.(2988+1_2989-1)_(3367+1_3368-1)del	p.?	CFTRdele17a,17b	21	0.000148	CF-causing	No	.
+c.1029del	p.Cys343X	1161delC	21	0.000148	CF-causing	No	chr7:117540258:GC:G
+c.1477_1478del	p.Gln493ValfsX10	1609delCA	21	0.000148	CF-causing	No	chr7:117559547:TCA:T
+c.175dup	p.Arg59LysfsX10	306insA	21	0.000148	CF-causing	No	.
+c.2464G>T	p.Glu822X	E822X	21	0.000148	CF-causing	No	.
+c.3873+1G>A	p.?	4005+1G->A	21	0.000148	CF-causing	No	chr7:117642594:G:A
+c.494T>C	p.Leu165Ser	L165S	21	0.000148	CF-causing	No	chr7:117534280:T:C
+c.803del	p.Asn268IlefsX17	935delA	21	0.000148	CF-causing	No	chr7:117536603:GA:G
+c.3209G>A	p.Arg1070Gln	R1070Q	21	0.000148	Varying clinical consequence	No	chr7:117611650:G:A
+c.1155_1156dup	p.Asn386IlefsX3	1288insTA	20	0.000141	CF-causing	No	.
+c.2989-1G>A	p.?	3121-1G->A	20	0.000141	CF-causing	No	chr7:117610518:G:A
+c.3659del	p.Thr1220LysfsX8	3791delC	20	0.000141	CF-causing	No	chr7:117627711:AC:A
+c.413_415dup	p.Leu138dup	L138ins	20	0.000141	CF-causing	No	.
+c.1684G>A	p.Val562Ile	V562I	20	0.000141	Non CF-causing	No	chr7:117590357:G:A
+c.2900T>C	p.Leu967Ser	L967S	20	0.000141	Varying clinical consequence	No	chr7:117603774:T:C
+c.(2619+1_2620-1)_(3367+1_3368-1)del	p.?	CFTRdele14b-17b	19	0.000134	CF-causing	No	.
+c.1130dup	p.Gln378AlafsX4	1259insA	19	0.000134	CF-causing	No	chr7:117542025:C:CA
+c.1651G>A	p.Gly551Ser 	G551S	19	0.000134	CF-causing	No	chr7:117587805:G:A
+c.1986_1989del	p.Thr663ArgfsX8	2118del4	19	0.000134	CF-causing	No	.
+c.3587C>G	p.Ser1196X	S1196X	19	0.000134	CF-causing	No	.
+c.4004T>C	p.Leu1335Pro	L1335P	19	0.000134	CF-causing	No	chr7:117664728:T:C
+c.4111G>T	p.Glu1371X	E1371X	19	0.000134	CF-causing	No	chr7:117664835:G:T
+c.(273+1_274-1)_(1584+1_1585-1)del	p.?	CFTRdele4-10	18	0.000127	CF-causing	No	.
+c.4077_4080delinsAA	p.?	4209TGTT->AA	18	0.000127	CF-causing	No	.
+c.4197_4198del	p.Cys1400X 	4326delTC	18	0.000127	CF-causing	No	.
+c.577G>T	p.Glu193X	E193X	18	0.000127	CF-causing	No	chr7:117534363:G:T
+c.4364C>G	p.Ser1455X	S1455X	18	0.000127	Varying clinical consequence	No	chr7:117667029:C:G
+c.1679+1G>C	p.?	1811+1G->C	17	0.00012	CF-causing	No	.
+c.1841A>G	p.Asp614Gly	D614G	17	0.00012	Varying clinical consequence	No	chr7:117592008:A:G
+c.4426C>T	p.Gln1476X	Q1476X	17	0.00012	Varying clinical consequence	No	chr7:117667091:C:T
+c.(743+1_744-1)_(1584+1_1585-1)dup	p.?	CFTRdup6b-10	16	0.000113	CF-causing	No	.
+c.1081del	p.Trp361GlyfsX8	1213delT	16	0.000113	CF-causing	No	.
+c.1301C>A|c.1301C>G	p.Ser434X	S434X	16	0.000113	CF-causing	No	.
+c.1682C>A	p.Ala561Glu	A561E	16	0.000113	CF-causing	No	chr7:117590355:C:A
+c.2735C>A	p.Ser912X 	S912X	16	0.000113	CF-causing	No	.
+c.293A>G	p.Gln98Arg	Q98R	16	0.000113	CF-causing	No	chr7:117530918:A:G
+c.3468G>A	p.?	3600G->A	16	0.000113	CF-causing	No	chr7:117614713:G:A
+c.3764C>A	p.Ser1255X	S1255X	16	0.000113	CF-causing	No	chr7:117642484:C:A
+c.4242+1G>T	p.?	4374+1G->T	16	0.000113	CF-causing	No	chr7:117665565:G:T
+c.3485G>T	p.Arg1162Leu	R1162L	16	0.000113	Non CF-causing	No	chr7:117627538:G:T
+c.3095A>G	p.Tyr1032Cys	Y1032C	16	0.000113	Varying clinical consequence	No	chr7:117610625:A:G
+c.1001G>T	p.Arg334Leu	R334L	15	0.000106	CF-causing	No	chr7:117540231:G:T
+c.1202G>A|c.1203G>A	p.Trp401X	W401X	15	0.000106	CF-causing	No	chr7:117542102:G:A
+c.1505T>C	p.Ile502Thr	I502T	15	0.000106	CF-causing	No	chr7:117559576:T:C
+c.1679G>A	p.Arg560Lys	R560K	15	0.000106	CF-causing	No	.
+c.2998del	p.Ile1000LeufsX2	3130delA	15	0.000106	CF-causing	No	.
+c.3873+2T>C	p.?	4005+2T->C	15	0.000106	CF-causing	No	chr7:117642595:T:C
+c.861_865del	p.Asn287LysfsX19	991del5	15	0.000106	CF-causing	No	.
+c.11C>A	p.Ser4X	S4X	14	0.000099	CF-causing	No	chr7:117480105:C:A
+c.170G>A|c.171G>A	p.Trp57X	W57X	14	0.000099	CF-causing	No	.
+c.2374C>T	p.Arg792X	R792X	14	0.000099	CF-causing	No	.
+c.2547C>A	p.Tyr849X 	Y849X	14	0.000099	CF-causing	No	chr7:117594986:C:A
+c.313del	p.Ile105SerfsX2	444delA	14	0.000099	CF-causing	No	chr7:117530936:GA:G
+c.3476C>T	p.Ser1159Phe	S1159F	14	0.000099	CF-causing	No	chr7:117627529:C:T
+c.3717+4A>G	p.?	3849+4A->G	14	0.000099	CF-causing	No	.
+c.828C>A	p.Cys276X 	C276X	14	0.000099	CF-causing	No	chr7:117536632:C:A
+c.330C>A	p.Asp110Glu	D110E	14	0.000099	Varying clinical consequence	No	chr7:117530955:C:A
+c.(2908+1_2909-1)_(3367+1_3368-1)del	p.?	CFTRdele16-17b	13	0.000092	CF-causing	No	.
+c.3107C>A	p.Thr1036Asn	T1036N	13	0.000092	CF-causing	No	chr7:117610637:C:A
+c.3368-2A>G	p.?	3500-2A->G	13	0.000092	CF-causing	No	chr7:117614611:A:G
+c.3717+40A>G	p.?	3849+40A->G	13	0.000092	CF-causing	No	.
+c.377G>A	p.Gly126D	G126D	13	0.000092	CF-causing	No	chr7:117531002:G:A
+c.723_743+1del	p.Gly241GlufsX13	852del22	13	0.000092	CF-causing	No	chr7:117535387:TAGGGAGAATGATGATGAAGTAC:T
+c.2249C>T	p.Pro750Leu	P750L	13	0.000092	Varying clinical consequence	No	chr7:117592416:C:T
+c.2930C>T	p.Ser977Phe	S977F	13	0.000092	Varying clinical consequence	No	chr7:117606695:C:T
+c.1418del	p.Gly473GlufsX54	1548delG	12	0.000084	CF-causing	No	chr7:117559486:TG:T
+c.2017G>T	p.Gly673X	G673X	12	0.000084	CF-causing	No	.
+c.2739T>A	p.Tyr913X	Y913X	12	0.000084	CF-causing	No	chr7:117603613:T:A
+c.2908G>C	p.Gly970Arg	G970R	12	0.000084	CF-causing	No	.
+c.3160C>G	p.His1054Asp¬†	H1054D	12	0.000084	CF-causing	No	chr7:117611601:C:G
+c.3468+2dup	p.?	3600+2insT	12	0.000084	CF-causing	No	.
+c.3718-1G>A	p.?	3850-1G->A	12	0.000084	CF-causing	No	.
+c.3806T>A	p.Ile1269Asn	I1269N	12	0.000084	CF-causing	No	.
+c.3883_3886del	p.Ile1295PhefsX32	4010del4	12	0.000084	CF-causing	No	.
+c.825C>G	p.Tyr275X	Y275X	12	0.000084	CF-causing	No	chr7:117536629:C:G
+c.1209+1G>A	p.?	1341+1G->A	11	0.000077	CF-causing	No	chr7:117542109:G:A
+c.1882G>C|c.1882G>A	p.Gly628Arg	G628R	11	0.000077	CF-causing	No	chr7:117592049:G:C
+c.233dup	p.Trp79LeufsX32¬†	365-366insT	11	0.000077	CF-causing	No	.
+c.3292T>C	p.Trp1098Arg	W1098R	11	0.000077	CF-causing	No	chr7:117611733:T:C
+c.509G>A	p.Arg170His	R170H	11	0.000077	Non CF-causing	No	chr7:117534295:G:A
+c.1046C>T	p.Ala349Val	A349V	11	0.000077	Unknown significance	No	chr7:117540276:C:T
+c.601G>A	p.Val201Met	V201M	11	0.000077	Unknown significance	No	chr7:117535269:G:A
+c.3222T>A|c.3220T>C|c.3222T>G	p.Phe1074Leu	F1074L	11	0.000077	Varying clinical consequence	No	chr7:117611663:T:A
+c.169T>G	p.Trp57Gly	W57G	10	0.00007	CF-causing	No	.
+c.1826A>G	p.His609Arg	H609R	10	0.00007	CF-causing	No	.
+c.2463_2464del	p.Ser821ArgfsX4	2594delGT	10	0.00007	CF-causing	No	.
+c.273+3A>C	p.?	405+3A->C	10	0.00007	CF-causing	No	.
+c.2859_2890del	p.Leu953PhefsX11	2991del32	10	0.00007	CF-causing	No	.
+c.2909G>A	p.Gly970Asp	G970D	10	0.00007	CF-causing	No	chr7:117606674:G:A
+c.3532_3535dup	p.Thr1179IlefsX17	3667ins4	10	0.00007	CF-causing	No	chr7:117627584:G:GTCAA
+c.3763T>C	p.Ser1255Pro	S1255P	10	0.00007	CF-causing	No	.
+c.3908del	p.Asn1303ThrfsX25	4040delA	10	0.00007	CF-causing	No	chr7:117652870:GA:G
+c.409del	p.Leu137SerfsX16	541delC	10	0.00007	CF-causing	No	.
+c.79G>T	p.Gly27X	G27X	10	0.00007	CF-causing	No	.
+c.933C>G|c.933C>A	p.Phe311Leu	F311L	10	0.00007	CF-causing	No	.
+c.1210_12T[7]	p.?	7T	10	0.00007	Non CF-causing	No	.
+c.3205G>A	p.Gly1069Arg	G1069R	10	0.00007	Varying clinical consequence	No	chr7:117611646:G:A
+c.489+3A>G	p.?	621+3A->G	10	0.00007	Varying clinical consequence	No	chr7:117531117:A:G
+c.(3468+1_3469-1)_(3717+1_3718-1)del	p.?	CFTRdele19	9	0.000063	CF-causing	No	.
+c.[1397C>G;3209G>A]	p.[Ser466X;Arg1070Gln]	S466X;R1070Q	9	0.000063	CF-causing	No	.
+c.1210-2A>C	p.?	1342-2A->C	9	0.000063	CF-causing	No	.
+c.2737_2738insG	p.Tyr913X¬†	2869insG	9	0.000063	CF-causing	No	.
+c.3293G>A|c.3294G>A	p.Trp1098X	W1098X	9	0.000063	CF-causing	No	chr7:117611734:G:A
+c.3475T>C	p.Ser1159Pro	S1159P	9	0.000063	CF-causing	No	chr7:117627528:T:C
+c.3747del	p.Lys1250ArgfsX9	3878delG	9	0.000063	CF-causing	No	chr7:117642464:AG:A
+c.416A>G	p.His139Arg	H139R	9	0.000063	CF-causing	No	.
+c.50del	p.Phe17SerfsX8	182delT	9	0.000063	CF-causing	No	.
+c.2421A>G	p.Ile807Met	I807M	9	0.000063	Non CF-causing	No	chr7:117592588:A:G
+c.2506G>T	p.Asp836Tyr	D836Y	9	0.000063	Non CF-causing	No	chr7:117594945:G:T
+c.3158C>T	p.Thr1053Ile	T1053I	9	0.000063	Non CF-causing	No	chr7:117611599:C:T
+c.164+28A>G	p.?	296+28A->G	9	0.000063	Unknown significance	No	.
+c.2620-26A>G	p.?	2752-26A->G	9	0.000063	Unknown significance	No	.
+c.3872A>G	p.Gln1291Arg	Q1291R	9	0.000063	Varying clinical consequence	No	.
+c.1211del	p.Gly404AspfsX38	1343delG	8	0.000056	CF-causing	No	.
+c.1393-2A>G	p.?	1525-2A->G	8	0.000056	CF-causing	No	chr7:117559462:A:G
+c.1572C>A	p.Cys524X	C524X	8	0.000056	CF-causing	No	.
+c.1573C>T	p.Gln525X	Q525X	8	0.000056	CF-causing	No	.
+c.168del	p.Glu56AspfsX35	300delA	8	0.000056	CF-causing	No	.
+c.1911del	p.Gln637HisfsX26	2043delG	8	0.000056	CF-causing	No	.
+c.2810dup	p.Val938GlyfsX37	2942insT	8	0.000056	CF-causing	No	.
+c.3017C>A	p.Ala1006Glu	A1006E	8	0.000056	CF-causing	No	chr7:117610547:C:A
+c.3139_3139+1del	p.Gly1047GlnfsX28	3271delGG	8	0.000056	CF-causing	No	.
+c.346G>A	p.Glu116Lys	E116K	8	0.000056	CF-causing	No	.
+c.4242+1G>A	p.?	4374+1G->A	8	0.000056	CF-causing	No	chr7:117665565:G:A
+c.53+1G>T	p.?	185+1G->T	8	0.000056	CF-causing	No	.
+c.850dup	p.Met284AsnfsX3	977insA	8	0.000056	CF-causing	No	.
+c.1408G>A	p.Val470Met	V470M	8	0.000056	Non CF-causing	Yes	chr7:117559479:G:A
+c.1523T>G	p.Phe508Cys	F508C	8	0.000056	Non CF-causing	No	chr7:117559594:T:G
+c.-8G>C	p.?	125G/C	8	0.000056	Non CF-causing	No	.
+c.1001G>A	p.Arg334Gln	R334Q	8	0.000056	Varying clinical consequence	No	chr7:117540231:G:A
+c.1327G>T	p.Asp443Tyr	D443Y	8	0.000056	Varying clinical consequence	No	.
+c.1865G>A	p.Gly622Asp	G622D	8	0.000056	Varying clinical consequence	No	chr7:117592032:G:A
+c.349C>G	p.Arg117Gly	R117G	8	0.000056	Varying clinical consequence	No	chr7:117530974:C:G
+c.350G>T	p.Arg117Leu	R117L	8	0.000056	Varying clinical consequence	No	chr7:117530975:G:T
+c.(3468+1_3469-1)_(3963+1_3964-1)del	p.?	CFTRdele19-21	7	0.000049	CF-causing	No	.
+c.1037T>C	p.Leu346Pro	L346P	7	0.000049	CF-causing	No	.
+c.1135G>T	p.Glu379X	E379X	7	0.000049	CF-causing	No	chr7:117542034:G:T
+c.1365_1366del	p.Val456CysfsX25	1497delGG	7	0.000049	CF-causing	No	.
+c.1538A>G	p.Asp513Gly	D513G	7	0.000049	CF-causing	No	chr7:117559609:A:G
+c.1687T>G	p.Tyr563Asp	Y563D	7	0.000049	CF-causing	No	chr7:117590360:T:G
+c.1766+1G>T	p.?	1898+1G->T	7	0.000049	CF-causing	No	.
+c.178G>A	p.Glu60Lys	E60K	7	0.000049	CF-causing	No	.
+c.1792_1798del	p.Lys598GlyfsX11	1924del7	7	0.000049	CF-causing	No	.
+c.2589_2599del	p.Ile864SerfsX28	2721del11	7	0.000049	CF-causing	No	.
+c.263T>A|c.263T>G	p.Leu88X	L88X	7	0.000049	CF-causing	No	.
+c.2658-1G>C	p.?	2790-1G->C	7	0.000049	CF-causing	No	.
+c.2822del	p.Leu941GlnfsX27	2954delT	7	0.000049	CF-causing	No	chr7:117603695:CT:C
+c.2825del	p.Ile942ThrfsX26	2957delT	7	0.000049	CF-causing	No	.
+c.296C>T	p.Pro99Leu	P99L	7	0.000049	CF-causing	No	.
+c.2989-2A>G	p.?	3121-2A->G	7	0.000049	CF-causing	No	chr7:117610517:A:G
+c.3011_3019del	p.Ala1004_Ala1006del	3143del9	7	0.000049	CF-causing	No	.
+c.310del	p.Arg104GlufsX3	442delA	7	0.000049	CF-causing	No	.
+c.3353C>T	p.Ser1118Phe	S1118F	7	0.000049	CF-causing	No	chr7:117611794:C:T
+c.3745G>A	p.Gly1249Arg	G1249R	7	0.000049	CF-causing	No	.
+c.3848G>T	p.Arg1283Met	R1283M	7	0.000049	CF-causing	No	.
+c.4124A>C	p.His1375Pro	H1375P	7	0.000049	CF-causing	No	.
+c.4231C>T	p.Gln1411X	Q1411X	7	0.000049	CF-causing	No	.
+c.429del	p.Phe143LeufsX10	557delT	7	0.000049	CF-causing	No	chr7:117531049:AT:A
+c.50dup	p.Ser18GlnfsX27	175insT	7	0.000049	CF-causing	No	.
+c.571T>G	p.Phe191Val	F191V	7	0.000049	CF-causing	No	chr7:117534357:T:G
+c.958T>G	p.Leu320Val	L320V	7	0.000049	Non CF-causing	No	chr7:117540188:T:G
+c.2735C>T	p.Ser912Leu	S912L	7	0.000049	Unknown significance	No	chr7:117603609:C:T
+c.92G>T	p.Arg31Leu	R31L	7	0.000049	Unknown significance	No	chr7:117504291:G:T
+c.1724T>A	p.Phe575Tyr	F575Y	7	0.000049	Varying clinical consequence	No	chr7:117590397:T:A
+c.2797A>G	p.Arg933Gly	R933G	7	0.000049	Varying clinical consequence	No	chr7:117603671:A:G
+c.3297C>A	p.Phe1099Leu	F1099L	7	0.000049	Varying clinical consequence	No	chr7:117611738:C:A
+c.794T>G	p.Met265Arg	M265R	7	0.000049	Varying clinical consequence	No	chr7:117536598:T:G
+c.(?_1)_(53+1_54-1)del	p.?	CFTRdele1	6	0.000042	CF-causing	No	.
+c.[3846G>A;3848G>T]	p.[Trp1282X;Arg1283Met]	W1282X;R1283M	6	0.000042	CF-causing	No	.
+c.1117-1G>A	p.?	1249-1G->A	6	0.000042	CF-causing	No	.
+c.1546A>G	p.Arg516Gly	R516G	6	0.000042	CF-causing	Yes	.
+c.1648G>T	p.Gly550X	G550X	6	0.000042	CF-causing	No	.
+c.1680A>C	p.Arg560Ser	R560S	6	0.000042	CF-causing	No	.
+c.174_177del	p.Asp58GlufsX32	306delTAGA	6	0.000042	CF-causing	No	.
+c.1766+1G>C	p.?	1898+1G->C	6	0.000042	CF-causing	No	chr7:117590440:G:C
+c.1766+5G>T	p.?	1898+5G->T	6	0.000042	CF-causing	No	chr7:117590444:G:T
+c.1837G>A	p.Ala613Thr	A613T	6	0.000042	CF-causing	No	.
+c.2601dup	p.Val868SerfsX28	2732insA	6	0.000042	CF-causing	No	.
+c.2763_2764dup	p.Val922GlufsX2	2896insAG	6	0.000042	CF-causing	No	.
+c.3124C>T	p.Gln1042X	Q1042X	6	0.000042	CF-causing	No	chr7:117610654:C:T
+c.3435G>A	p.Trp1145X	W1145X	6	0.000042	CF-causing	No	.
+c.3718-3T>G	p.?	3850-3T->G	6	0.000042	CF-causing	No	.
+c.445G>A	p.Gly149Arg	G149R	6	0.000042	CF-causing	Yes	.
+c.743+1G>A	p.?	875+1G->A	6	0.000042	CF-causing	Yes	.
+c.-9_14del	p.?	124del23bp	6	0.000042	CF-causing	No	.
+c.3041A>G	p.Tyr1014Cys	Y1014C	6	0.000042	Unknown significance	No	chr7:117610571:A:G
+c.1054C>T	p.Arg352Trp	R352W	6	0.000042	Varying clinical consequence	No	chr7:117540284:C:T
+c.1763A>T	p.Glu588Val	E588V	6	0.000042	Varying clinical consequence	No	chr7:117590436:A:T
+c.3458T>A	p.Val1153Glu	V1153E	6	0.000042	Varying clinical consequence	No	chr7:117614703:T:A
+c.(1392+1_1393-1)_(1584+1_1585-1)del	p.?	CFTRdele10	5	0.000035	CF-causing	No	.
+c.(1584+1_1585-1)_(1679+1_1680-1)del	p.?	CFTRdele11	5	0.000035	CF-causing	No	.
+c.(273+1_274-1)_(1116+1_1117-1)del	p.?	CFTRdele4-7	5	0.000035	CF-causing	No	.
+c.(3873+1_3874-1)_(3963+1_3964-1)del	p.?	CFTRdele21	5	0.000035	CF-causing	No	.
+c.[(273+1_274-1)_(1116+1_1117-1)del;(1584+1_1585-1)_(3468+1_3469-1)del]	p.?	CFTR50kbdel	5	0.000035	CF-causing	No	.
+c.1057C>T	p.Gln353X	Q353X	5	0.000035	CF-causing	No	.
+c.1240C>T	p.Gln414X	Q414X	5	0.000035	CF-causing	No	chr7:117548671:C:T
+c.1420G>A	p.Glu474Lys	E474K	5	0.000035	CF-causing	No	.
+c.1584+1G>A	p.?	1716+1G->A	5	0.000035	CF-causing	No	.
+c.165-1G>A	p.?	297-1G->A	5	0.000035	CF-causing	No	.
+c.166G>A	p.Glu56Lys	E56K	5	0.000035	CF-causing	No	chr7:117509035:G:A
+c.1679+1G>A	p.?	1811+1G->A	5	0.000035	CF-causing	No	.
+c.1692del	p.Asp565MetfsX7	1824delA	5	0.000035	CF-causing	No	chr7:117590362:CA:C
+c.1801A>T	p.Ile601Phe	I601F	5	0.000035	CF-causing	No	.
+c.271G>A	p.Gly91Arg	G91R	5	0.000035	CF-causing	No	.
+c.274-2A>G	p.?	406-2A->G	5	0.000035	CF-causing	No	.
+c.2997_3000del	p.Ile1000X	3129del4	5	0.000035	CF-causing	Yes	.
+c.3039del	p.Tyr1014ThrfsX9	3171delC	5	0.000035	CF-causing	No	.
+c.3103C>T	p.Gln1035X	Q1035X	5	0.000035	CF-causing	No	chr7:117610633:C:T
+c.3304A>T	p.Arg1102X	R1102X	5	0.000035	CF-causing	No	.
+c.3469-2A>G	p.?	3601-2A->G	5	0.000035	CF-causing	Yes	.
+c.350G>C	p.Arg117Pro	R117P	5	0.000035	CF-causing	No	.
+c.3605del	p.Asp1202AlafsX9	3737delA	5	0.000035	CF-causing	No	.
+c.3617C>G	p.Ser1206X	S1206X	5	0.000035	CF-causing	Yes	.
+c.3691del	p.Ser1231ProfsX4	3821delT	5	0.000035	CF-causing	No	.
+c.3883del	p.Ile1295PhefsX33	4015delA	5	0.000035	CF-causing	No	.
+c.3891dup	p.Gly1298TrpfsX4	4022insT	5	0.000035	CF-causing	No	.
+c.4086dup	p.Lys1363X	4218insT	5	0.000035	CF-causing	No	.
+c.4097T>A	p.Ile1366Asn	I1366N	5	0.000035	CF-causing	No	.
+c.4144C>T	p.Gln1382X	Q1382X	5	0.000035	CF-causing	No	chr7:117665466:C:T
+c.4147dup	p.Ile1383AsnfsX3	4279insA	5	0.000035	CF-causing	No	.
+c.470_483del	p.Phe157X	602del14	5	0.000035	CF-causing	No	.
+c.4C>T	p.Gln2X	Q2X	5	0.000035	CF-causing	No	.
+c.577G>A	p.Glu193Lys	E193K	5	0.000035	CF-causing	No	chr7:117534363:G:A
+c.675T>A	p.Cys225X	C225X	5	0.000035	CF-causing	No	.
+c.743+1G>C	p.?	875+1G->C	5	0.000035	CF-causing	Yes	.
+c.2770G>A	p.Asp924Asn	D924N	5	0.000035	Unknown significance	No	chr7:117603644:G:A
+c.2855T>C	p.Met952Thr	M952T	5	0.000035	Unknown significance	No	chr7:117603729:T:C
+c.1853T>C	p.Ile618Thr	I618T	5	0.000035	Varying clinical consequence	No	chr7:117592020:T:C
+c.3047T>C	p.Phe1016Ser	F1016S	5	0.000035	Varying clinical consequence	No	chr7:117610577:T:C
+c.4439T>C	p.Leu1480Pro	L1480P	5	0.000035	Varying clinical consequence	No	.
+c.709C>G	p.Gln237Glu	Q237E	5	0.000035	Varying clinical consequence	No	chr7:117535377:C:G
+c.772A>G	p.Arg258Gly	R258G	5	0.000035	Varying clinical consequence	No	chr7:117536576:A:G
+c.(1766+1_1767-1)_(2619+1_2620-1)del	p.?	CFTRdele13,14a	4	0.000028	CF-causing	No	.
+c.(53+1_54-1)_(489+1_490-1)del	p.?	CFTRdele2-4	4	0.000028	CF-causing	No	.
+c.[(164+1_165-1)_(1584+1_1585-1)del;(2619+1_2620-1)_(2988+1_2989-1)del]	p.?	CFTRdele3-10,14b-16	4	0.000028	CF-causing	No	.
+c.[1523T>G;3752G>A]	p.[Phe508Cys;Ser1251Asn]	F508C;S1251N	4	0.000028	CF-causing	No	.
+c.[4C>T;7A>T]	p.[Gln2X;Arg3Trp]	Q2X;R3W	4	0.000028	CF-causing	No	.
+c.1358T>C	p.Leu453Ser	L453S	4	0.000028	CF-causing	No	.
+c.1366G>T	p.Val456Phe	V456F	4	0.000028	CF-causing	Yes	.
+c.137C>A	p.Ala46Asp	A46D	4	0.000028	CF-causing	No	chr7:117504336:C:A
+c.1585-2A>G	p.?	1717-2A->G	4	0.000028	CF-causing	No	.
+c.164+1G>T	p.?	296+1G->T	4	0.000028	CF-causing	No	.
+c.164+4dup	p.?	296+3insT	4	0.000028	CF-causing	No	.
+c.1650del	p.Gly551ValfsX8	1782delA	4	0.000028	CF-causing	No	.
+c.1670del	p.Ser557PhefsX2	1802delC	4	0.000028	CF-causing	No	.
+c.1689C>A	p.Tyr563X	Y563X	4	0.000028	CF-causing	No	.
+c.1703del	p.Leu568CysfsX4	1833delT	4	0.000028	CF-causing	No	.
+c.1990G>T	p.Glu664X	E664X	4	0.000028	CF-causing	No	.
+c.2053C>T	p.Gln685X	Q685X	4	0.000028	CF-causing	No	.
+c.2053dup	p.Gln685ProfsX84	2185insC	4	0.000028	CF-causing	No	.
+c.2233G>T	p.Gly745X	G745X	4	0.000028	CF-causing	No	.
+c.2241_2248del	p.Ile748SerfsX28	2372del8	4	0.000028	CF-causing	No	.
+c.2423_2424dup	p.Ser809IlefsX13	2556insAT	4	0.000028	CF-causing	No	.
+c.2645G>A	p.Trp882X	W882X	4	0.000028	CF-causing	No	.
+c.3002_3003del	p.Val1001AspfsX45	3132delTG	4	0.000028	CF-causing	No	.
+c.305T>G	p.Leu102Arg	L102R	4	0.000028	CF-causing	No	chr7:117530930:T:G
+c.307G>T	p.Gly103X	G103X	4	0.000028	CF-causing	Yes	.
+c.3229_3230del	p.Leu1077ValfsX78	3359delCT	4	0.000028	CF-causing	Yes	.
+c.3254A>C	p.His1085Pro	H1085P	4	0.000028	CF-causing	Yes	chr7:117611695:A:C
+c.3294G>C|c.3294G>T	p.Trp1098Cys	W1098C	4	0.000028	CF-causing	No	chr7:117611735:G:C
+c.3302T>G	p.Met1101Arg	M1101R	4	0.000028	CF-causing	No	chr7:117611743:T:G
+c.3600del	p.Asp1201MetfsX10	3732delA	4	0.000028	CF-causing	No	.
+c.3971T>C	p.Leu1324Pro	L1324P	4	0.000028	CF-causing	No	.
+c.4234C>T	p.Gln1412X 	Q1412X	4	0.000028	CF-causing	No	.
+c.4300_4301dup	p.Ser1435GlyfsX14 	4428insGA	4	0.000028	CF-causing	No	.
+c.44T>C	p.Leu15Pro	L15P	4	0.000028	CF-causing	No	.
+c.461dup	p.Ala155SerfsX4	593insT	4	0.000028	CF-causing	Yes	.
+c.481T>G	p.Tyr161Asp	Y161D	4	0.000028	CF-causing	No	.
+c.543_546del	p.Leu183PhefsX5 	675del4	4	0.000028	CF-causing	No	.
+c.54-5842_489+401del	p.?	IVSI-5842_IVS4+401del	4	0.000028	CF-causing	No	.
+c.57G>A	p.Trp19X	W19X	4	0.000028	CF-causing	No	.
+c.761del	p.Lys254ArgfsX7	892delA	4	0.000028	CF-causing	No	.
+c.980del	p.Leu327GlnfsX42	1112delT	4	0.000028	CF-causing	Yes	.
+c.1210-7_1210-6dup	p.?	9T	4	0.000028	Non CF-causing	No	.
+c.1076A>G	p.Gln359Arg	Q359R	4	0.000028	Varying clinical consequence	No	.
+c.358G>A	p.Ala120Thr	A120T	4	0.000028	Varying clinical consequence	No	chr7:117530983:G:A
+c.581G>T	p.Gly194Val	G194V	4	0.000028	Varying clinical consequence	No	chr7:117535249:G:T
+c.(?_-1)_(53+1_54-1)del	p.?	CFTRdelePr-1	3	0.000021	CF-causing	No	.
+c.(273+1_274-1)_(1679+1_1680-1)del	p.?	CFTRdele4-11	3	0.000021	CF-causing	No	.
+c.(3139+1_3140-1)_(3367+1_3368-1)del	p.?	CFTRdele17b	3	0.000021	CF-causing	No	.
+c.(3367+1_3368-1)_(3468+1_3469-1)del	p.?	CFTRdele18	3	0.000021	CF-causing	No	.
+c.1301_1307del	p.Ser434LeufsX6	1429del7	3	0.000021	CF-causing	No	.
+c.1330_1331del	p.Ile444X	1460delAT	3	0.000021	CF-causing	No	.
+c.1373del	p.Gly458AspfsX11	1504delG	3	0.000021	CF-causing	No	chr7:117548802:TG:T
+c.1409_1418del	p.Val470GlufsX54	1540del10	3	0.000021	CF-causing	Yes	.
+c.1470_1471del	p.Phe490LeufsX13	1601delTC	3	0.000021	CF-causing	Yes	.
+c.1487G>A	p.Trp496X	W496X	3	0.000021	CF-causing	No	chr7:117559558:G:A
+c.156_163dup	p.Arg55AsnfsX39	295ins8	3	0.000021	CF-causing	Yes	.
+c.1584+2T>C	p.?	1716+2T->C	3	0.000021	CF-causing	Yes	.
+c.164+1G>A	p.?	296+1G->A	3	0.000021	CF-causing	No	chr7:117504364:G:A
+c.164+2T>C	p.?	296+2T->C	3	0.000021	CF-causing	No	.
+c.1642_1643del	p.Leu548GlufsX19	1774delCT	3	0.000021	CF-causing	Yes	.
+c.1731C>A	p.Tyr577X	Y577X	3	0.000021	CF-causing	No	.
+c.1766+2T>A	p.?	1898+2T->A	3	0.000021	CF-causing	No	.
+c.1920_1921dup	p.Ser641IlefsX23	2053insTA	3	0.000021	CF-causing	No	.
+c.1943del	p.Asp648ValfsX15	2075delA	3	0.000021	CF-causing	No	.
+c.1966G>T	p.Glu656X	E656X	3	0.000021	CF-causing	No	.
+c.202A>T	p.Lys68X	K68X	3	0.000021	CF-causing	No	.
+c.2143C>T	p.Gln715X	Q715X	3	0.000021	CF-causing	No	.
+c.2158C>T	p.Gln720X	Q720X	3	0.000021	CF-causing	No	.
+c.2502dup	p.Asp835X	2634insT	3	0.000021	CF-causing	No	.
+c.2885C>A|c.2885C>G	p.Ser962X	S962X	3	0.000021	CF-causing	Yes	.
+c.2896del	p.Thr966ArgfsX2	3028delA	3	0.000021	CF-causing	No	.
+c.2936A>T	p.Asp979Val	D979V	3	0.000021	CF-causing	No	.
+c.3039dup	p.Tyr1014LeufsX33	3171insC	3	0.000021	CF-causing	No	.
+c.3217dup	p.Tyr1073LeufsX3	3349insT	3	0.000021	CF-causing	No	.
+c.327T>A	p.Tyr109X	Y109X	3	0.000021	CF-causing	No	.
+c.3365del	p.Thr1122LysfsX12	3497delC	3	0.000021	CF-causing	No	.
+c.3382A>T	p.Arg1128X	R1128X	3	0.000021	CF-causing	No	.
+c.3468+5G>A	p.?	3600+5G->A	3	0.000021	CF-causing	No	.
+c.3530del	p.Lys1177SerfsX15	3662delA	3	0.000021	CF-causing	Yes	.
+c.3546C>G	p.Tyr1182X	Y1182X	3	0.000021	CF-causing	Yes	chr7:117627599:C:A
+c.3717+5G>A	p.?	3849+5G->A	3	0.000021	CF-causing	No	.
+c.3717G>A	p.?	3849G->A	3	0.000021	CF-causing	No	chr7:117627770:G:A
+c.3719T>G	p.Val1240Gly	V1240G	3	0.000021	CF-causing	No	chr7:117642439:T:G
+c.3808del	p.Asp1270MetfsX8	3940delG	3	0.000021	CF-causing	No	chr7:117642527:CG:C
+c.3822G>A	p.Trp1274X	W1274X	3	0.000021	CF-causing	No	chr7:117642542:G:A
+c.3874-1G>A	p.?	4006-1G->A	3	0.000021	CF-causing	Yes	.
+c.38C>T	p.Ser13Phe	S13F	3	0.000021	CF-causing	No	.
+c.3929G>A	p.Trp1310X	W1310X	3	0.000021	CF-causing	No	.
+c.3988C>T	p.Gln1330X	Q1330X	3	0.000021	CF-causing	No	.
+c.4036_4042del	p.Leu1346MetfsX6	4168delCTAAGCC	3	0.000021	CF-causing	No	chr7:117664758:TCCTAAGC:T
+c.4127_4131del	p.Leu1376SerfsX8	4259del5	3	0.000021	CF-causing	No	.
+c.4168C>T	p.Gln1390X	Q1390X	3	0.000021	CF-causing	Yes	.
+c.424del	p.Ile142PhefsX11	556delA	3	0.000021	CF-causing	No	.
+c.531dup	p.Gly178TrpfsX5	663insT	3	0.000021	CF-causing	No	.
+c.575A>G	p.Asp192Gly	D192G	3	0.000021	CF-causing	No	chr7:117534361:A:G
+c.580-2A>G	p.?	712-2A->G	3	0.000021	CF-causing	No	chr7:117535246:A:G
+c.580G>A	p.Gly194Arg	G194R	3	0.000021	CF-causing	No	.
+c.580G>T	p.Gly194X	G194X	3	0.000021	CF-causing	No	.
+c.647G>A	p.Trp216X	W216X	3	0.000021	CF-causing	No	chr7:117535315:G:A
+c.717del	p.Leu240X	849delG	3	0.000021	CF-causing	No	.
+c.744-2A>G	p.?	876-2A->G	3	0.000021	CF-causing	No	.
+c.79G>A	p.Gly27Arg	G27R	3	0.000021	CF-causing	No	.
+c.868C>T	p.Gln290X	Q290X	3	0.000021	CF-causing	No	chr7:117536672:C:T
+c.88C>T	p.Gln30X	Q30X	3	0.000021	CF-causing	No	.
+c.987del	p.Gly330GlufsX39	1119delA	3	0.000021	CF-causing	No	.
+c.165-3C>T	p.?	297-3C->T	3	0.000021	Unknown significance	No	chr7:117509031:C:T
+c.941G>A	p.Gly314Glu	G314E	3	0.000021	Varying clinical consequence	No	chr7:117540171:G:A
+c.1069del	p.Ala357LeufsX12	1199delG	2	0.000014	CF-causing	Yes	.
+c.1083del	p.Trp361CysfsX8	1215delG	2	0.000014	CF-causing	Yes	.
+c.1086T>A|c.1086T>G	p.Tyr362X	Y362X	2	0.000014	CF-causing	Yes	.
+c.1093_1094del	p.Leu365TrpfsX16	1221delCT	2	0.000014	CF-causing	Yes	.
+c.1234del	p.Ala412GlnfsX30	1366delG	2	0.000014	CF-causing	Yes	.
+c.1302del	p.Leu435PhefsX7	1434delA	2	0.000014	CF-causing	Yes	.
+c.1375_1385del	p.Ser459ArgfsX19	c.1375_1385del	2	0.000014	CF-causing	Yes	.
+c.1392+1G>A	p.?	1524+1G->A	2	0.000014	CF-causing	Yes	.
+c.1446dup	p.Lys483X	1576insT	2	0.000014	CF-causing	Yes	.
+c.1585-1G>T	p.?	1717-1G->T	2	0.000014	CF-causing	Yes	.
+c.165-2A>G	p.?	297-2A->G	2	0.000014	CF-causing	Yes	.
+c.1679+2T>C	p.?	1811+2T->C	2	0.000014	CF-causing	Yes	.
+c.1703T>A	p.Leu568X	L568X	2	0.000014	CF-causing	Yes	.
+c.1766+2T>C	p.?	1898+2T->C	2	0.000014	CF-causing	Yes	.
+c.1786_1787del	p.Ala596X	1918delGC	2	0.000014	CF-causing	Yes	.
+c.1936G>T	p.Gly646X	G646X	2	0.000014	CF-causing	Yes	.
+c.1954C>T	p.Gln652X	Q652X	2	0.000014	CF-causing	Yes	.
+c.1981del	p.Ile661SerfsX2	2113delA	2	0.000014	CF-causing	Yes	.
+c.1A>C	p.Met1?	M1L	2	0.000014	CF-causing	Yes	.
+c.2062A>T	p.Lys688X	K688X	2	0.000014	CF-causing	Yes	.
+c.2089dup	p.Arg697LysfsX33	2221insA	2	0.000014	CF-causing	Yes	.
+c.2156T>A	p.Leu719X	L719X	2	0.000014	CF-causing	Yes	.
+c.2188G>T	p.Glu730X	E730X	2	0.000014	CF-causing	Yes	chr7:117592355:G:T
+c.2203del	p.Arg735GlyfsX4	2335delA	2	0.000014	CF-causing	Yes	.
+c.2261del	p.Val754GlyfsX17	c.2261delT	2	0.000014	CF-causing	Yes	.
+c.2299C>T	p.Gln767X	Q767X	2	0.000014	CF-causing	Yes	.
+c.2335C>T	p.Gln779X	Q779X	2	0.000014	CF-causing	Yes	.
+c.2341C>T	p.Gln781X	Q781X	2	0.000014	CF-causing	Yes	.
+c.234del	p.Trp79GlyfsX12	c.234delC	2	0.000014	CF-causing	Yes	.
+c.236G>A	p.Trp79X	W79X	2	0.000014	CF-causing	Yes	.
+c.2393dup	p.Gln799SerfsX6	2522insC	2	0.000014	CF-causing	Yes	.
+c.2440C>T	p.Gln814X	Q814X	2	0.000014	CF-causing	Yes	.
+c.2443G>T	p.Glu815X	E815X	2	0.000014	CF-causing	Yes	.
+c.2488A>T	p.Lys830X	K830X	2	0.000014	CF-causing	Yes	.
+c.2576_2588del	p.Leu859X	2708del13	2	0.000014	CF-causing	Yes	.
+c.2619+2T>C	p.?	2751+2T->C	2	0.000014	CF-causing	Yes	.
+c.2644_2645dup	p.Trp882CysfsX25	2777insTG	2	0.000014	CF-causing	Yes	.
+c.273+2T>G	p.?	405+2T->G	2	0.000014	CF-causing	Yes	.
+c.274-1G>C	p.?	406-1G->C	2	0.000014	CF-causing	Yes	.
+c.2909del	p.Gly970ValfsX11	3041delG	2	0.000014	CF-causing	Yes	.
+c.2924_2925del	p.Arg975IlefsX10	3056delGA	2	0.000014	CF-causing	Yes	.
+c.2932A>T	p.Lys978X	K978X	2	0.000014	CF-causing	Yes	.
+c.2964dup	p.Leu989SerfsX5	3095insT	2	0.000014	CF-causing	Yes	.
+c.2989-977_3367+248del	p.?	3121-977_3499+248del2515	2	0.000014	CF-causing	No	.
+c.3007G>T	p.Gly1003X	G1003X	2	0.000014	CF-causing	Yes	.
+c.3008del	p.Gly1003GlufsX3	3139delG	2	0.000014	CF-causing	Yes	.
+c.3011del	p.Ala1004ValfsX2	3143delC	2	0.000014	CF-causing	Yes	.
+c.3022del	p.Val1008SerfsX15	3154delG	2	0.000014	CF-causing	Yes	.
+c.3106del	p.Thr1036ProfsX24	3238delA	2	0.000014	CF-causing	Yes	.
+c.3161del	p.His1054LeufsX6	3293delA	2	0.000014	CF-causing	Yes	.
+c.3189G>A	p.Trp1063X	W1063X	2	0.000014	CF-causing	Yes	.
+c.3264del	p.Trp1089GlyfsX13	3396delC	2	0.000014	CF-causing	Yes	.
+c.3275_3290del	p.Tyr1092SerfsX5	3407_3422del16	2	0.000014	CF-causing	Yes	.
+c.3397del	p.Leu1133X	3528delC	2	0.000014	CF-causing	Yes	.
+c.3400_3401delinsGTA	p.Thr1134ValfsX22	3532AC->GTA	2	0.000014	CF-causing	Yes	.
+c.3407_3422del	p.Ala1136ValfsX7	c.3407_3422del16	2	0.000014	CF-causing	Yes	.
+c.3536_3539del	p.Thr1179AsnfsX12	3667del4	2	0.000014	CF-causing	Yes	.
+c.357del	p.Ile119MetfsX5	489delC	2	0.000014	CF-causing	Yes	.
+c.3598delinsTCT	p.Lys1200SerfsX12	3730A->TCT	2	0.000014	CF-causing	Yes	.
+c.3615del	p.Ser1206GlnfsX5	3747delC	2	0.000014	CF-causing	Yes	.
+c.3618_3619del	p.Gly1208ProfsX56	3750delAG	2	0.000014	CF-causing	Yes	.
+c.3841C>T	p.Gln1281X	Q1281X	2	0.000014	CF-causing	Yes	.
+c.3904A>T	p.Lys1302X	K1302X	2	0.000014	CF-causing	Yes	chr7:117652872:A:T
+c.3921T>A	p.Tyr1307X	Y1307X	2	0.000014	CF-causing	Yes	.
+c.393del	p.Phe131LeufsX3	525delT	2	0.000014	CF-causing	Yes	.
+c.3947G>A	p.Trp1316X	W1316X	2	0.000014	CF-causing	Yes	.
+c.3976del	p.Ser1326LeufsX2	4108delT	2	0.000014	CF-causing	Yes	.
+c.4028dup	p.Cys1344LeufsX15	4160insG	2	0.000014	CF-causing	Yes	.
+c.409_412del	p.Leu137TyrfsX15	541del4	2	0.000014	CF-causing	Yes	.
+c.410_416del	p.Leu137ProfsX14	542del7	2	0.000014	CF-causing	Yes	.
+c.489+1G>A	p.?	621+1G->A	2	0.000014	CF-causing	Yes	.
+c.489+2T>C	p.?	621+2T->C	2	0.000014	CF-causing	Yes	.
+c.49_50dup	p.Trp19AlafsX7	181_182dup	2	0.000014	CF-causing	Yes	.
+c.498del	p.Lys166AsnfsX7	630delG	2	0.000014	CF-causing	Yes	.
+c.522_526del	p.Ile175TyrfsX6	654del5	2	0.000014	CF-causing	Yes	.
+c.54-1G>A	p.?	186-1G->A	2	0.000014	CF-causing	Yes	.
+c.543_556del	p.Ser182GlnfsX6	675del14	2	0.000014	CF-causing	Yes	.
+c.548del	p.Leu183ProfsX6	680delT	2	0.000014	CF-causing	Yes	.
+c.550del	p.Leu184PhefsX5	681delC	2	0.000014	CF-causing	Yes	.
+c.578_579+5del	p.?	710_711+5del7	2	0.000014	CF-causing	Yes	.
+c.581_582del	p.Gly194AlafsX63	713delGA	2	0.000014	CF-causing	Yes	.
+c.601del	p.Val201CysfsX14	733delG	2	0.000014	CF-causing	Yes	.
+c.708dup	p.Gln237SerfsX21	840insT	2	0.000014	CF-causing	Yes	.
+c.764del	p.Ile255ThrfsX6	896delT	2	0.000014	CF-causing	Yes	.
+c.850del	p.Met284X	982delA	2	0.000014	CF-causing	Yes	.
+c.874_875del	p.Glu292ThrfsX15	1006_1007delGA	2	0.000014	CF-causing	Yes	.
+c.1025_1026insTA	p.Cys343ThrfsX27	1157insTA	1	0.000007	CF-causing	Yes	.
+c.1053_1054del	p.Arg352AlafsX11	1185delTC	1	0.000007	CF-causing	Yes	.
+c.1068G>A	p.Trp356X	W356X	1	0.000007	CF-causing	Yes	chr7:117540298:G:A
+c.1082G>A|c.1083G>A	p.Trp361X	W361X	1	0.000007	CF-causing	Yes	.
+c.1116_1116+1insATCAA	p.?	1248insATCAA	1	0.000007	CF-causing	Yes	.
+c.1118dup	p.Asp373GlufsX9	1249insA	1	0.000007	CF-causing	Yes	.
+c.112_113del	p.Tyr38ProfsX6	241delAT	1	0.000007	CF-causing	Yes	.
+c.1130del	p.Lys377SerfsX11	1262delA	1	0.000007	CF-causing	Yes	.
+c.1132C>T	p.Gln378X	Q378X	1	0.000007	CF-causing	Yes	.
+c.1157dup	p.Asn386LysfsX25	1288insA	1	0.000007	CF-causing	Yes	.
+c.1159_1160del	p.Leu387AsnfsX23	1291delTT	1	0.000007	CF-causing	Yes	.
+c.1162_1163delinsTA	p.Thr388X	T388X	1	0.000007	CF-causing	Yes	.
+c.1162_1168del	p.Thr388GlnfsX3	1294del7	1	0.000007	CF-causing	Yes	.
+c.1209+1G>C	p.?	1341+1G->C	1	0.000007	CF-causing	Yes	.
+c.1209+1G>T	p.?	1341+1G->T	1	0.000007	CF-causing	Yes	.
+c.1209+2T>G	p.?	1341+2T->G	1	0.000007	CF-causing	Yes	.
+c.1210-1G>C	p.?	1342-1G->C	1	0.000007	CF-causing	Yes	.
+c.1210-1G>T	p.?	1342-1G->T	1	0.000007	CF-causing	Yes	.
+c.1221del	p.Glu407AspfsX35	1353delA	1	0.000007	CF-causing	Yes	.
+c.1243_1247del	p.Asn415X	1367del5	1	0.000007	CF-causing	Yes	.
+c.1248dup	p.Asn417X	1380insT	1	0.000007	CF-causing	Yes	.
+c.1287del	p.Phe430SerfsX12	1419delC	1	0.000007	CF-causing	Yes	.
+c.1324A>T	p.Lys442X	K442X	1	0.000007	CF-causing	Yes	.
+c.1360_1387del	p.Leu454AlafsX6	1491-1500del	1	0.000007	CF-causing	Yes	.
+c.1366del	p.Val456LeufsX13	1498delG	1	0.000007	CF-causing	Yes	.
+c.1392+1del	p.?	1524+1delG	1	0.000007	CF-causing	Yes	.
+c.142_145del	p.Asn48TyrfsX42	c.142_145delAATC	1	0.000007	CF-causing	Yes	.
+c.1424del	p.Leu475ArgfsX52	1556delT	1	0.000007	CF-causing	Yes	.
+c.1439del	p.Gly480ValfsX47	1571delG	1	0.000007	CF-causing	Yes	.
+c.1510G>T	p.Glu504X	E504X	1	0.000007	CF-causing	Yes	.
+c.1540G>T	p.Glu514X	E514X	1	0.000007	CF-causing	Yes	.
+c.154A>T	p.Lys52X	K52X	1	0.000007	CF-causing	Yes	.
+c.1551C>A|c.1551C>G	p.Tyr517X	Y517X	1	0.000007	CF-causing	Yes	.
+c.156del	p.Lys52AsnfsX39	284delA	1	0.000007	CF-causing	Yes	.
+c.1582G>T	p.Glu528X	E528X	1	0.000007	CF-causing	Yes	.
+c.1616_1617dup	p.Val540X	1749insTA	1	0.000007	CF-causing	Yes	.
+c.164+1G>C	p.?	296+1G->C	1	0.000007	CF-causing	Yes	.
+c.164+2T>G	p.?	296+2T->G	1	0.000007	CF-causing	Yes	.
+c.1674del	p.Ala559GlnfsX13	1806delA	1	0.000007	CF-causing	Yes	.
+c.1680-1G>C	p.?	IVS11-1G->C	1	0.000007	CF-causing	Yes	.
+c.1680-2A>C	p.?	1812-2A->C	1	0.000007	CF-causing	Yes	.
+c.1682dup	p.Val562SerfsX6	1813insC	1	0.000007	CF-causing	Yes	.
+c.1741_1742dup	p.Leu581PhefsX2	1874_1875insTT	1	0.000007	CF-causing	Yes	.
+c.1742dup	p.Leu581PhefsX8	1874insT	1	0.000007	CF-causing	Yes	.
+c.1766+2del	p.?	1898+2delT	1	0.000007	CF-causing	Yes	.
+c.177dup	p.Glu60ArgfsX9	308insA	1	0.000007	CF-causing	Yes	.
+c.1792A>T	p.Lys598X	K598X	1	0.000007	CF-causing	Yes	.
+c.1800del	p.Ile601PhefsX10	1932delG	1	0.000007	CF-causing	Yes	.
+c.1807del	p.Val603SerfsX8	c.1807delG	1	0.000007	CF-causing	Yes	.
+c.1810_1826del	p.Thr604PhefsX5	1942del17	1	0.000007	CF-causing	Yes	.
+c.1846del	p.Ile616TyrfsX2	1978delA	1	0.000007	CF-causing	Yes	.
+c.1846dup	p.Ile616AsnfsX6	1978dupA	1	0.000007	CF-causing	Yes	.
+c.185dup	p.Ser63PhefsX6	317insC	1	0.000007	CF-causing	Yes	.
+c.1874_1875del	p.Tyr625PhefsX16	2005delTA	1	0.000007	CF-causing	Yes	.
+c.1900C>T	p.Gln634X	Q634X	1	0.000007	CF-causing	Yes	.
+c.1972dup	p.Arg658LysfsX7	2104insA	1	0.000007	CF-causing	Yes	.
+c.1976del	p.Asn659IlefsX4	2108delA	1	0.000007	CF-causing	Yes	.
+c.1977_1986del	p.Asn659LysfsX10	2109-2118del10	1	0.000007	CF-causing	Yes	.
+c.1987_2000del	p.Thr663ProfsX21	2118del14	1	0.000007	CF-causing	Yes	.
+c.2000_2001del	p.His667ProfsX21	2132delAC	1	0.000007	CF-causing	Yes	.
+c.2036G>A	p.Trp679X	W679X	1	0.000007	CF-causing	Yes	.
+c.2044dup	p.Thr682AsnfsX7	2175insA	1	0.000007	CF-causing	Yes	.
+c.2045dup	p.Gln685ThrfsX4	2176insC	1	0.000007	CF-causing	Yes	.
+c.2051_2052del	p.Lys684ThrfsX4	2183delAA	1	0.000007	CF-causing	Yes	.
+c.2057_2058delinsA	p.Ser686TyrfsX36	2189CT->A	1	0.000007	CF-causing	Yes	.
+c.2074G>T	p.Glu692X	E692X	1	0.000007	CF-causing	Yes	.
+c.2083del	p.Glu695LysfsX27	2215delG	1	0.000007	CF-causing	Yes	.
+c.2091del	p.Lys698ArgfsX24	2222delG	1	0.000007	CF-causing	Yes	.
+c.2145_2146delinsGT	p.Lys716X	K716X	1	0.000007	CF-causing	Yes	.
+c.2148del	p.Thr717LeufsX5	c.2148delG	1	0.000007	CF-causing	Yes	.
+c.2277del	p.Thr760ArgfsX11	2409delC	1	0.000007	CF-causing	Yes	.
+c.2303dup	p.Val769CysfsX10	2435insC	1	0.000007	CF-causing	Yes	.
+c.2324_2325del	p.His775LeufsX3	2456delAC	1	0.000007	CF-causing	Yes	.
+c.2349dup	p.His784SerfsX21	2481-2482insT	1	0.000007	CF-causing	Yes	.
+c.2380del	p.Val794CysfsX9	2512delG	1	0.000007	CF-causing	Yes	.
+c.2425del	p.Ser809GlnfsX12	2557delT	1	0.000007	CF-causing	Yes	.
+c.2454_2455insT	p.Glu819X	2586-2687insT	1	0.000007	CF-causing	Yes	.
+c.2489dup	p.Glu831GlyfsX5	c.2489_2490insA	1	0.000007	CF-causing	Yes	.
+c.2491-2A>G	p.?	2623-2A->G	1	0.000007	CF-causing	Yes	.
+c.2502del	p.Phe834LeufsX10	2634delT	1	0.000007	CF-causing	Yes	.
+c.2508del	p.Asp836GlufsX8	2640delT	1	0.000007	CF-causing	Yes	.
+c.2523_2548del	p.Ala842SerfsX45	2655del26	1	0.000007	CF-causing	Yes	.
+c.2562del	p.Val855SerfsX5	2694delT	1	0.000007	CF-causing	Yes	.
+c.2592_2593del	p.Ile864MetfsX31	2723delTT	1	0.000007	CF-causing	Yes	.
+c.25dup	p.Ala9GlyfsX36	156insG	1	0.000007	CF-causing	Yes	.
+c.2615del	p.Ala872GlufsX34	2747delC	1	0.000007	CF-causing	Yes	.
+c.2619+2T>A	p.?	2751+2T->A	1	0.000007	CF-causing	Yes	.
+c.2620-1G>T	p.?	2752-1G->T	1	0.000007	CF-causing	Yes	.
+c.2620-2A>G	p.?	2752-2A->G	1	0.000007	CF-causing	Yes	.
+c.2655_2670del	p.Asn886ThrfsX15	2787del16	1	0.000007	CF-causing	Yes	.
+c.2658-2A>G	p.?	2790-2A->G	1	0.000007	CF-causing	Yes	.
+c.2705del	p.Ser902ThrfsX4	2837delG	1	0.000007	CF-causing	Yes	.
+c.2732_2733insA	p.Ser911ArgfsX64	c.2732_2733insA	1	0.000007	CF-causing	Yes	.
+c.2733_2734insA	p.Ser912IlefsX63	c.2733insA	1	0.000007	CF-causing	Yes	.
+c.274-2A>C	p.?	406-2A->C	1	0.000007	CF-causing	Yes	.
+c.2776_2777del	p.Leu926AlafsX48	2907delTT	1	0.000007	CF-causing	Yes	.
+c.2777del	p.Leu926CysfsX16	2909delT	1	0.000007	CF-causing	Yes	.
+c.2803_2813del	p.Leu935AlafsX36	2935del11	1	0.000007	CF-causing	Yes	.
+c.2805_2810del	p.Pro936_Leu937del	2937_2942delinsTCAGA	1	0.000007	CF-causing	Yes	.
+c.2816del	p.His939LeufsX3	2948delA	1	0.000007	CF-causing	Yes	.
+c.2819_2820insA	p.Leu941SerfsX34	2951insA	1	0.000007	CF-causing	Yes	.
+c.2819_2823del	p.Thr940AsnfsX33	2949del5	1	0.000007	CF-causing	Yes	.
+c.2836A>T	p.Lys946X	K946X	1	0.000007	CF-causing	Yes	.
+c.285dup	p.Ala96SerfsX15	415insA	1	0.000007	CF-causing	Yes	.
+c.2879del	p.Pro960LeufsX8	3011delC	1	0.000007	CF-causing	Yes	.
+c.2883_2886dup	p.Thr963ValfsX13	3015_3018dupGTCA	1	0.000007	CF-causing	Yes	.
+c.2897del	p.Thr966SerfsX2	3029delC	1	0.000007	CF-causing	Yes	.
+c.2899_2900delinsA	p.Leu967ArgfsX14	3031-3032delinsA	1	0.000007	CF-causing	Yes	.
+c.2908+1G>A	p.?	3040+1G->A	1	0.000007	CF-causing	Yes	.
+c.2982_2988+2del	p.?	c.2982_2988+2delCATCCAGGT	1	0.000007	CF-causing	Yes	.
+c.2986C>T	p.Gln996X	Q996X	1	0.000007	CF-causing	Yes	chr7:117606751:C:T
+c.2989-1G>T	p.?	3121-1G->T	1	0.000007	CF-causing	Yes	.
+c.2989-2A>C	p.?	3121-2A->C	1	0.000007	CF-causing	Yes	.
+c.2989-2A>T	p.?	3121-2A->T	1	0.000007	CF-causing	Yes	.
+c.2T>A	p.Met1?	M1K	1	0.000007	CF-causing	Yes	.
+c.3033dup	p.Gln1012ThrfsX35	c.3033dup	1	0.000007	CF-causing	Yes	.
+c.303dup	p.Leu102ThrfsX9	435insA	1	0.000007	CF-causing	Yes	.
+c.3081dup	p.Met1028TyrfsX19	3213-3214insT	1	0.000007	CF-causing	Yes	.
+c.3136G>T	p.Glu1046X	E1046X	1	0.000007	CF-causing	Yes	.
+c.3139+2T>C	p.?	3271+2T->C	1	0.000007	CF-causing	Yes	.
+c.3140-1G>A	p.?	3272-1G->A	1	0.000007	CF-causing	Yes	.
+c.3176T>G	p.Leu1059X	L1059X	1	0.000007	CF-causing	Yes	.
+c.3227_3231del	p.Thr1076IlefsX78	3359delCTCTG	1	0.000007	CF-causing	Yes	.
+c.3290_3305del	p.Arg1097GlnfsX2	3422del16	1	0.000007	CF-causing	Yes	.
+c.3294del	p.Trp1098CysfsX4	3425delG	1	0.000007	CF-causing	Yes	.
+c.3315del	p.Met1105IlefsX16	3447delG	1	0.000007	CF-causing	Yes	.
+c.3324del	p.Ile1109SerfsX12	3456delC	1	0.000007	CF-causing	Yes	.
+c.332del	p.Pro111ArgfsX13	464delC	1	0.000007	CF-causing	Yes	.
+c.3367+1G>T	p.?	3499+1G->T	1	0.000007	CF-causing	Yes	.
+c.3367+2T>C	p.?	3499+2T->C	1	0.000007	CF-causing	Yes	.
+c.3368-1G>A	p.?	3500-1G->A	1	0.000007	CF-causing	Yes	.
+c.3384_3388del	p.Val1129TyrfsX25	3516del5	1	0.000007	CF-causing	Yes	.
+c.3389_3402del	p.Gly1130ValfsX21	3521del14	1	0.000007	CF-causing	Yes	.
+c.340A>T	p.Lys114X	K114X	1	0.000007	CF-causing	Yes	.
+c.3421_3424dup	p.Thr1142LysfsX15	3556insAGTA	1	0.000007	CF-causing	Yes	.
+c.3430C>T	p.Gln1144X	Q1144X	1	0.000007	CF-causing	Yes	.
+c.3468+1G>A	p.?	3600+1G->A	1	0.000007	CF-causing	Yes	.
+c.3468+1G>T	p.?	3600+1G->T	1	0.000007	CF-causing	Yes	.
+c.3469-1G>A	p.?	3601-1G->A	1	0.000007	CF-causing	Yes	.
+c.3492dup	p.Lys1165X	3622insT	1	0.000007	CF-causing	Yes	.
+c.3493A>T	p.Lys1165X	K1165X	1	0.000007	CF-causing	Yes	.
+c.3497del	p.Phe1166SerfsX26	3629delT	1	0.000007	CF-causing	Yes	.
+c.3533C>A|c.3533C>G	p.Ser1178X	S1178X	1	0.000007	CF-causing	Yes	chr7:117627586:C:A
+c.3539_3554del	p.Lys1180ThrfsX7	c.3539_3554del	1	0.000007	CF-causing	Yes	.
+c.3556C>T	p.Gln1186X	Q1186X	1	0.000007	CF-causing	Yes	.
+c.3592del	p.Val1198X	3724delG	1	0.000007	CF-causing	Yes	.
+c.3599_3600delinsG	p.Lys1200ArgfsX11	3731-3732AA->G	1	0.000007	CF-causing	Yes	.
+c.3623dup	p.Gln1209ProfsX56	3755dupG	1	0.000007	CF-causing	Yes	.
+c.3658dup	p.Thr1220AsnfsX45	3789insA	1	0.000007	CF-causing	Yes	.
+c.367dup	p.Leu123ProfsX36	499dupC	1	0.000007	CF-causing	Yes	.
+c.3708del	p.Gly1237AlafsX22	3840delT	1	0.000007	CF-causing	Yes	.
+c.3724del	p.Leu1242SerfsX17	3856delC	1	0.000007	CF-causing	Yes	.
+c.3743C>A|c.3743C>G	p.Ser1248X	S1248X	1	0.000007	CF-causing	Yes	chr7:117642463:C:G
+c.3754dup	p.Thr1252AsnfsX13	3886insA	1	0.000007	CF-causing	Yes	.
+c.3758dup	p.Leu1253PhefsX12	3889dupT	1	0.000007	CF-causing	Yes	.
+c.3767dup	p.Leu1258PhefsX7	3898insC	1	0.000007	CF-causing	Yes	.
+c.3773del	p.Leu1258X	3905delT	1	0.000007	CF-causing	Yes	.
+c.3796G>T	p.Glu1266X	E1266X	1	0.000007	CF-causing	Yes	chr7:117642516:G:T
+c.3816_3817del	p.Ser1273LeufsX28	3944delGT	1	0.000007	CF-causing	Yes	.
+c.3827del	p.Ser1276X	3959delC	1	0.000007	CF-causing	Yes	.
+c.3829del	p.Ile1277X	3960-3961delA	1	0.000007	CF-causing	Yes	.
+c.3838C>T	p.Gln1280X	Q1280X	1	0.000007	CF-causing	Yes	.
+c.3876del	p.Val1293TyrfsX35	4006delA	1	0.000007	CF-causing	Yes	.
+c.387del	p.Leu130SerfsX4	519delT	1	0.000007	CF-causing	Yes	.
+c.3917_3918dup	p.Tyr1307ProfsX22	4048insCC	1	0.000007	CF-causing	Yes	.
+c.3925C>T	p.Gln1309X	Q1309X	1	0.000007	CF-causing	Yes	.
+c.3932_3933delinsAATATG	p.Ser1311LysfsX12	4064-4065delinsAATATG	1	0.000007	CF-causing	Yes	.
+c.3957del	p.Asp1320MetfsX8	4089delA	1	0.000007	CF-causing	Yes	.
+c.3963+1G>A	p.?	4095+1G->A	1	0.000007	CF-causing	Yes	.
+c.3963+1G>C	p.?	4095+1G->C	1	0.000007	CF-causing	Yes	.
+c.4033_4034del	p.Val1345ProfsX13	4165delGT	1	0.000007	CF-causing	Yes	.
+c.4035_4038dup	p.Ser1347ProfsX13	p.S1347PfsX13	1	0.000007	CF-causing	Yes	.
+c.4040_4041del	p.Ser1347ThrfsX11	4172delGC	1	0.000007	CF-causing	Yes	.
+c.4046del	p.Gly1349AlafsX5	4177delG	1	0.000007	CF-causing	Yes	.
+c.4051A>T	p.Lys1351X	K1351X	1	0.000007	CF-causing	Yes	.
+c.4065_4066del	p.Leu1356GlyfsX2	4197_4198delCT	1	0.000007	CF-causing	Yes	.
+c.4071_4073delinsAA	p.Arg1358AsnfsX22	4203TAG->AA	1	0.000007	CF-causing	Yes	.
+c.4090del	p.Ala1364ArgfsX16	4222delG	1	0.000007	CF-causing	Yes	.
+c.4139del	p.Thr1380AsnfsX4	4271delC	1	0.000007	CF-causing	Yes	.
+c.4170del	p.Ala1391HisfsX7	4301delA	1	0.000007	CF-causing	Yes	.
+c.450dup	p.Gln151AlafsX8	582insG	1	0.000007	CF-causing	Yes	.
+c.476dup	p.Leu159PhefsX4	605insT	1	0.000007	CF-causing	Yes	.
+c.476T>A	p.Leu159X	L159X	1	0.000007	CF-causing	Yes	chr7:117531101:T:A
+c.489+2T>G	p.?	621+2T->G	1	0.000007	CF-causing	Yes	.
+c.49_50del	p.Phe17GlnfsX27	c.49_50delTT	1	0.000007	CF-causing	Yes	.
+c.490-2A>C	p.?	622-2A->C	1	0.000007	CF-causing	Yes	.
+c.53+2T>C	p.?	185+2T->C	1	0.000007	CF-causing	Yes	.
+c.53+2T>G	p.?	185+2T->G	1	0.000007	CF-causing	Yes	.
+c.54-2A>G	p.?	186-2A->G	1	0.000007	CF-causing	Yes	.
+c.551_555del	p.Leu184GlnfsX7	c.551_555delTTTCC	1	0.000007	CF-causing	Yes	.
+c.579_579+3del	p.?	710del4	1	0.000007	CF-causing	Yes	.
+c.604_605del	p.Trp202AspfsX55	c.604_605delTG	1	0.000007	CF-causing	Yes	.
+c.606G>A	p.Trp202X	W202X	1	0.000007	CF-causing	Yes	.
+c.614dup	p.Leu206PhefsX52	746insC	1	0.000007	CF-causing	Yes	.
+c.617del	p.Leu206CysfsX9	749delT	1	0.000007	CF-causing	Yes	.
+c.619C>T	p.Gln207X	Q207X	1	0.000007	CF-causing	Yes	.
+c.743+2T>C	p.?	875+2T->C	1	0.000007	CF-causing	Yes	.
+c.748C>T	p.Gln250X	Q250X	1	0.000007	CF-causing	Yes	.
+c.773del	p.Arg258AsnfsX3	905delG	1	0.000007	CF-causing	Yes	.
+c.777del	p.Val260X	909delT	1	0.000007	CF-causing	Yes	.
+c.805_806del	p.Ile269ProfsX4	936delTA	1	0.000007	CF-causing	Yes	.
+c.830G>A	p.Trp277X	W277X	1	0.000007	CF-causing	Yes	.
+c.865A>T	p.Arg289X	R289X	1	0.000007	CF-causing	Yes	.
+c.869+1G>C	p.?	1001+1G->C	1	0.000007	CF-causing	Yes	.
+c.87dup	p.Gln30ThrfsX15	218insA	1	0.000007	CF-causing	Yes	.
+c.905_906insA	p.Arg303GlufsX5	1037insA	1	0.000007	CF-causing	Yes	.
+c.908_911del	p.Arg303ThrfsX24	1040del4	1	0.000007	CF-causing	Yes	.
+c.927del	p.Phe310SerfsX18	1058delC	1	0.000007	CF-causing	Yes	.
+c.959T>A	p.Leu320X	L320X	1	0.000007	CF-causing	Yes	.
+c.982del	p.Ile328SerfsX41	c.982delA	1	0.000007	CF-causing	Yes	.
